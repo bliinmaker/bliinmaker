@@ -1,4 +1,4 @@
-<p align="center" height="150" weight="100%"><img src="https://images.unsplash.com/photo-1684254889561-fdd9a84cd8d5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=987&q=80" /></p>
+<p align="center" height="150" ><img src="https://images.unsplash.com/photo-1684254889561-fdd9a84cd8d5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=987&q=80" /></p>
 <h1 align="center">Привет 👋, я Кирилл</h1>
 <h3 align="center">Я начинающий Frontend разработчик. Уверенно владею HTML, CSS, JavaScript. Сейчас погрузился в изучение Typescript и библиотеки React.</h3>
 
