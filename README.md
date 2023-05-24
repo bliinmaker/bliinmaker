@@ -1,4 +1,4 @@
-<p align="center"><img src="https://images.unsplash.com/photo-1684690640456-381bc7183e86?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2188&q=80" align="center" height="400" /></p>
+<p align="center"><img src="https://github.com/bliinmaker/bliinmaker/blob/main/content/bg.png" align="center" height="400" /></p>
 
 <h1 align="center">привет 👋, я Кирилл</h1>
 <h3 align="center">Я начинающий Frontend разработчик. Уверенно владею HTML, CSS, JavaScript. Сейчас погрузился в изучение Typescript и библиотеки React.</h3>
@@ -13,9 +13,9 @@
 
 <h3 align="left">Мои контакты:</h3>
 <p align="left">
-<a href="https://twitter.com/blinmaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blinmaker" height="30" width="40" /></a>
-<a href="https://fb.com/blinmaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="blinmaker" height="30" width="40" /></a>
-<a href="https://instagram.com/kinozemtc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kinozemtc" height="30" width="40" /></a>
+<a href="https://t.me/blinmaker" target="blank"><img align="center" src="https://github.com/bliinmaker/bliinmaker/blob/main/content/tg.png" alt="blinmaker" height="40" width="40" /></a>
+<a href="https://vk.com/id334606244" target="blank"><img align="center" src="https://github.com/bliinmaker/bliinmaker/blob/main/content/vk.png" alt="Kirill Inozemtsev" height="40" width="40" /></a>
+<a href="https://instagram.com/kinozemtc" target="blank"><img align="center" src="https://github.com/bliinmaker/bliinmaker/blob/main/content/instagram.png" alt="kinozemtc" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Навыки:</h3>
