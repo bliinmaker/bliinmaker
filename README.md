@@ -1,8 +1,7 @@
-<svg width="250" height="250">
+<svg width="100%" height="250" align="center">
    <pattern id="pattern" width="100%" height="100%">
       <img href="https://images.unsplash.com/photo-1684514359791-6878e59af13b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80" width="250" height="250"></img>
    </pattern>
-   <circle cx="125" cy="125" r="100" fill="url(#pattern)"></circle>
 </svg>
 <h1 align="center">привет 👋, я Кирилл</h1>
 <h3 align="center">Я начинающий Frontend разработчик. Уверенно владею HTML, CSS, JavaScript. Сейчас погрузился в изучение Typescript и библиотеки React.</h3>
