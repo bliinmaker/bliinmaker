@@ -1,3 +1,4 @@
+<img src="https://unsplash.com/photos/2gxniwtyytg">
 <h1 align="center">Привет 👋, я Кирилл</h1>
 <h3 align="center">Я начинающий Frontend разработчик. Уверенно владею HTML, CSS, JavaScript. Сейчас погрузился в изучение Typescript и библиотеки React.</h3>
 
