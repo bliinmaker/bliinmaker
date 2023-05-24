@@ -1,4 +1,9 @@
-<p align="center" height="300"><img src="https://images.unsplash.com/photo-1684690640456-381bc7183e86?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2188&q=80" /></p>
+<svg width="250" height="250">
+   <pattern id="pattern" width="100%" height="100%">
+      <image xlink:href="[https://omiliya.org/sites/default/files/img_articles/5_2.jpeg](https://images.unsplash.com/photo-1684690640456-381bc7183e86?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2188&q=80)" width="250" height="250" preserveAspectRatio="xMidYMin slice"></image>
+   </pattern>
+   <circle cx="125" cy="125" r="100" fill="url(#pattern)"></circle>
+</svg>
 <h1 align="center">привет 👋, я Кирилл</h1>
 <h3 align="center">Я начинающий Frontend разработчик. Уверенно владею HTML, CSS, JavaScript. Сейчас погрузился в изучение Typescript и библиотеки React.</h3>
 
