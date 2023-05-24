@@ -1,10 +1,10 @@
-<img src="https://images.unsplash.com/photo-1684690640456-381bc7183e86?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2188&q=80" align="center" />
-<h1 align="center">Привет 👋, я Кирилл</h1>
+<img src="https://images.unsplash.com/photo-1684690640456-381bc7183e86?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2188&q=80" align="center" height="30" />
+<h1 align="center">привет 👋, я Кирилл</h1>
 <h3 align="center">Я начинающий Frontend разработчик. Уверенно владею HTML, CSS, JavaScript. Сейчас погрузился в изучение Typescript и библиотеки React.</h3>
 
-- 🔭 Сейчас я работаю над копией сайта **RuTube**
+- 🔭 Сейчас занимаюсь разработкой копиии сайта **RuTube**
 
-- 🌱 Сейчас я изучаю: **React, TypeScript**
+- 🌱 В процессе зучения: **React, TypeScript**
 
 - 📫 Можете связаться со мной **kinozemts@gmail.com**
 
