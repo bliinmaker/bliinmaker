@@ -9,7 +9,7 @@
 
 - 📫 Можете связаться со мной **kinozemts@gmail.com**
 
-- ⚡ Интересные факты: **Катаюсь на борде, мое хобби видеомонтаж**
+- ⚡ Интересные факты: **катаюсь на сноуборде, а главное хобби - видеомонтаж**
 
 <h3 align="left">Мои контакты:</h3>
 <p align="left">
@@ -23,17 +23,17 @@
 
 <h3 align="left">Портфолио:</h3>
 
-- 📁 Пример интернет магазина мебели **<a href="https://bliinmaker.github.io/furniture/">Furniture</a>**
+- 📁 Пример Интернет Магазина Мебели  <a href="https://bliinmaker.github.io/furniture/">**Furniture**</a>
 
-- 📁 Пример сайта по продаже экскурсий **<a href="https://bliinmaker.github.io/xtomsk/">XTomsk</a>**
+- 📁 Пример сайта по Продаже Экскурсий  <a href="https://bliinmaker.github.io/xtomsk/">**XTomsk**</a>
 
-- 📁 Пример интернет магазина кофе **<a href="https://bliinmaker.github.io/starbucks/">Starbucks</a>**
+- 📁 Пример Интернет Магазина Кофе  <a href="https://bliinmaker.github.io/starbucks/">**Starbucks**</a>
 
-- 📁 Пример сайта веб-студии **<a href="https://bliinmaker.github.io/webcode/">WebCode</a>**
+- 📁 Пример сайта Веб-студии <a href="https://bliinmaker.github.io/webcode/">**WebCode**</a>
 
-- 📁 Пример сайта по продаже туров **<a href="https://bliinmaker.github.io/travel-code/">Travel Code</a>**
+- 📁 Пример сайта по Продаже Туров  <a href="https://bliinmaker.github.io/travel-code/">**Travel Code**</a>
 
-- 📁 Пример приложения для общения с фанатами **<a href="https://bliinmaker.github.io/ppi/">PPI</a>**
+- 📁 Пример Приложения для общения с фанатами <a href="https://bliinmaker.github.io/ppi/">**PPI**</a>
 
 <!--
 **bliinmaker/bliinmaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
