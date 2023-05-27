@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/bliinmaker/bliinmaker/blob/main/content/bg.png" align="center" height="400" /></p>
+<p align="center"><img background-size="cover" src="https://github.com/bliinmaker/bliinmaker/blob/main/content/bg.png" align="center" /></p>
 
 <h1 align="center">привет 👋, я Кирилл</h1>
 <h3 align="center">Я начинающий Frontend разработчик. Уверенно владею HTML, CSS, JavaScript. Сейчас погрузился в изучение Typescript и библиотеки React.</h3>
@@ -23,15 +23,15 @@
 
 <h3 align="left">Портфолио:</h3>
 
-- 📁 Пример Интернет Магазина Мебели  <a href="https://bliinmaker.github.io/furniture/">**Furniture**</a>
+- 📁 Пример Интернет Магазина Мебели <a href="https://bliinmaker.github.io/furniture/">**Furniture**</a>
 
-- 📁 Пример сайта по Продаже Экскурсий  <a href="https://bliinmaker.github.io/xtomsk/">**XTomsk**</a>
+- 📁 Пример сайта по Продаже Экскурсий <a href="https://bliinmaker.github.io/xtomsk/">**XTomsk**</a>
 
-- 📁 Пример Интернет Магазина Кофе  <a href="https://bliinmaker.github.io/starbucks/">**Starbucks**</a>
+- 📁 Пример Интернет Магазина Кофе <a href="https://bliinmaker.github.io/starbucks/">**Starbucks**</a>
 
 - 📁 Пример сайта Веб-студии <a href="https://bliinmaker.github.io/webcode/">**WebCode**</a>
 
-- 📁 Пример сайта по Продаже Туров  <a href="https://bliinmaker.github.io/travel-code/">**Travel Code**</a>
+- 📁 Пример сайта по Продаже Туров <a href="https://bliinmaker.github.io/travel-code/">**Travel Code**</a>
 
 - 📁 Пример Приложения для общения с фанатами <a href="https://bliinmaker.github.io/ppi/">**PPI**</a>
 
