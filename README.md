@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/bliinmaker/bliinmaker/blob/main/content/bg.png" align="center" /></p>
 
 <h1 align="center">привет 👋, я Кирилл</h1>
-<h3 align="center">Я начинающий Frontend разработчик. Уверенно владею HTML, CSS, JavaScript. Сейчас погрузился в изучение Typescript и библиотеки React.</h3>
+<h3 align="center">Я Frontend разработчик. Уверенно владею HTML, CSS, JavaScript. Сейчас погрузился в изучение Typescript и библиотеки React.</h3>
 
 - 🔭 Сейчас занимаюсь разработкой копиии сайта **RuTube**
 
