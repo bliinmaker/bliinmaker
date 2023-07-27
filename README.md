@@ -25,7 +25,7 @@
 
 - 📁 Пример Интернет Магазина Мебели <a href="https://bliinmaker.github.io/furniture/">**Furniture**</a>
 
-- 📁 Пример сайта по Продаже Экскурсий <a href="https://bliinmaker.github.io/xtomsk/">**XTomsk**</a>
+- 📁 Пример сайта по Продаже Экскурсий <a href="https://xtomsk.onrender.com">**XTomsk**</a>
 
 - 📁 Пример Интернет Магазина Кофе <a href="https://bliinmaker.github.io/starbucks/">**Starbucks**</a>
 
